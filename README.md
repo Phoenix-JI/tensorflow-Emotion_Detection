@@ -4,4 +4,4 @@ Emotion is the essential role of facial expression and it could provide a lot of
 </br>
 In the company, job assignment is always a problem for the supervisor. How to assign the job to improve the overall efficiency and how to assign the job to specific staff in specific time period of specific department. So I develop the job assignment system to improve the overall working efficiency by real time emotion detection
 ## System Overview
-![This is an image](https://github.com/Phoenix-JI/File_Share_System/blob/main/System.png)
+![This is an image](https://github.com/Phoenix-JI/Emotion-Detection/blob/main/System.png)
